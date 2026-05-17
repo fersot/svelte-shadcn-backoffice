@@ -2,7 +2,18 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/fersot/svelte-shadcn-backoffice/main/.github/preview.png" alt="Backoffice Preview" width="100%" style="border-radius: 12px" />
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/fersot/svelte-shadcn-backoffice/main/.github/preview.png" alt="Modo Claro" width="100%" style="border-radius:8px" />
+      <sub><b>☀️ Modo Claro</b></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/fersot/svelte-shadcn-backoffice/main/.github/preview-dark.png" alt="Modo Oscuro" width="100%" style="border-radius:8px" />
+      <sub><b>🌙 Modo Oscuro</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 <br />
