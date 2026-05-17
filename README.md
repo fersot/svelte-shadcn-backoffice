@@ -212,8 +212,10 @@ Distribuido bajo la licencia **MIT**. Ver [`LICENSE`](LICENSE) para más informa
 
 <div align="center">
 
-Hecho con ❤️ usando [SvelteKit](https://kit.svelte.dev) · [shadcn-svelte](https://shadcn-svelte.com) · [Tailwind CSS v4](https://tailwindcss.com)
+Hecho con ❤️ por **[fersot](https://github.com/fersot)** usando [SvelteKit](https://kit.svelte.dev) · [shadcn-svelte](https://shadcn-svelte.com) · [Tailwind CSS v4](https://tailwindcss.com)
 
-**[⬆ Volver al inicio](#)**
+<br />
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-apoyar%20el%20proyecto-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fersot)
 
 </div>
